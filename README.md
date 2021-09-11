@@ -1,4 +1,5 @@
 Problem Statement :
+
 Inferential statistics applied to a Stroop Effect measurement
 This analysis aims to compute descriptive statistics and to perform a statistical test on a dataset based on a psychological phenomenon: the Stroop Effect. This report is structured into four sections: (1) Introduction, where the investigation problem is set; (2) Descriptive Statistics, where the data is parameterized statistically; (3) Hypotheses Test, in which a statistical test is applied to data and its results are reported; and (4) Conclusion, where an in-depth discussion on Stroop Effect is made.
 The Stroop Effect¶
